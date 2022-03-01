@@ -47,4 +47,4 @@ Vá até o arquivo `EmotionMeter.js` e defina um componente que exibe uma "carin
 
 ## Entrega
 
-Quando terminar, copie e cole o link do seu repositório (basta copiar a URL atual do seu navegador) na unidade deste exercício no Student Portal (my.ironhack).
+Quando terminar, crie um Pull Request neste repositório apontando para seu fork, e copie e cole a URL do Pull Request no campo de entrega do lab no portal do aluno (https://my.ironhack).
